@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 // Q2. Subtract two numbers
 int main(){
     int a,b;
@@ -10,4 +9,5 @@ int main(){
     printf("Difference = %d\n",a-b);
     return 0;
 }
+
 

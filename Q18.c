@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q18. Calculate area and perimeter of a rectangle
-int main(){
+int main()
+{
     int l,b;
     printf("Enter length: ");
     scanf("%d",&l);

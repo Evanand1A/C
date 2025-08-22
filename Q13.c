@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q13. Convert bytes into KB, MB, and GB
-int main(){
+int main()
+{
     long bytes;
     printf("Enter size in bytes: ");
     scanf("%ld",&bytes);

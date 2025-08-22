@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q16. Calculate interest where I = PRT / 100
-int main(){
+int main()
+{
     float p,r,t;
     printf("Enter principal: ");
     scanf("%f",&p);

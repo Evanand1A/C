@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q3. Multiply two numbers
-int main(){
+int main()
+{
     int a,b;
     printf("Enter first number: ");
     scanf("%d",&a);

@@ -1,0 +1,11 @@
+#include <stdio.h>
+// Q10. Convert dollars into pounds (1$ = 48 Rs, 1 pound = 70 Rs)
+int main(){
+    float dollars, rupees, pounds;
+    printf("Enter amount in dollars: ");
+    scanf("%f",&dollars);
+    rupees = dollars*48;
+    pounds = rupees/70;
+    printf("Pounds = %.2f\n",pounds);
+    return 0;
+}

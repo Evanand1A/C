@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q5. Add, subtract, multiply, and divide two numbers
-int main(){
+int main()
+{
     int a,b;
     printf("Enter first number: ");
     scanf("%d",&a);

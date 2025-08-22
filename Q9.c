@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q9. Convert rupees into dollars (1$ = 48 Rs)
-int main(){
+int main()
+{
     float rupees;
     printf("Enter amount in rupees: ");
     scanf("%f",&rupees);

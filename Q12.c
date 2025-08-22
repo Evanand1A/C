@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q12. Convert grams into kilograms
-int main(){
+int main()
+{
     float grams;
     printf("Enter weight in grams: ");
     scanf("%f",&grams);

@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q4. Divide two numbers
-int main(){
+int main()
+{
     int a,b;
     printf("Enter numerator: ");
     scanf("%d",&a);

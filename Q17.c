@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q17. Calculate area and perimeter of a square
-int main(){
+int main()
+{
     int l;
     printf("Enter side length of square: ");
     scanf("%d",&l);

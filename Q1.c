@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q1. Add two numbers
-int main(){
+int main()
+{
     int a,b;
     printf("Enter first number: ");
     scanf("%d",&a);
@@ -9,3 +10,4 @@ int main(){
     printf("Sum = %d\n",a+b);
     return 0;
 }
+

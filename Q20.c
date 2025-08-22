@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q20. Calculate area of a triangle: A = 1/2 × L × B
-int main(){
+int main()
+{
     float l,b;
     printf("Enter base: ");
     scanf("%f",&b);

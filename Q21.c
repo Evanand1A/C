@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q21. Calculate net salary: gross salary + allowance − deduction
-int main(){
+int main()
+{
     float gross,allowance,deduction,net;
     printf("Enter gross salary: ");
     scanf("%f",&gross);

@@ -1,6 +1,7 @@
 #include <stdio.h>
 // Q14. Convert Celsius into Fahrenheit: F = (9/5 × C) + 32
-int main(){
+int main()
+{
     float c;
     printf("Enter temperature in Celsius: ");
     scanf("%f",&c);

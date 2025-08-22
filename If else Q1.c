@@ -1,7 +1,8 @@
 #include <stdio.h>
 /* Question 1:
    Find out largest and smallest of two values. */
-int main(void) {
+int main(void) 
+{
     double a, b;
     printf("Enter two values: ");
     scanf("%lf %lf", &a, &b);
